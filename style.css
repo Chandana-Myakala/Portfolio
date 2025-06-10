@@ -52,6 +52,12 @@ header {
   border: 5px solid #38bdf8;
   display: block;
 }
+.center-img {
+  display: block;
+  margin: 10px auto;
+  width: 150px;
+  height: auto;
+}
 
 .home-content h3 {
   font-size: 42px;
